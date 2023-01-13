@@ -36,7 +36,7 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and built f
 
 ## Learning Solana
 * [Blockchain Basics](https://solana.com/learn/blockchain-basics)
-* [NFT's]
+* [NFT's](https://solana.com/learn/nfts)
 
 
 ## Build on Solana
