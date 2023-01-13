@@ -8,4 +8,4 @@
 
 ## Other Solana Knowledge Bases
 
-* [Decentralized Finance Solana Ecosystem Map](https://dezentralizedfinance.com/solana-ecosystem/)
+* [DecentralizedFinance.com Solana Ecosystem Map](https://dezentralizedfinance.com/solana-ecosystem/)
