@@ -66,3 +66,5 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [DecentralizedFinance.com Solana Ecosystem Map](https://dezentralizedfinance.com/solana-ecosystem/)
 * [awesome-solana](https://github.com/mtreerungroj/awesome-solana)
 * [Solana Ecosystem](https://solana.com/ecosystem)
+* [Awesome Solana NFT's](https://github.com/ilmoi/awesome-solana-nfts)
+* [SOL Map](https://solmap.app/)
