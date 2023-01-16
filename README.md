@@ -1,7 +1,7 @@
 # solana-rolodex
 
 ## What is Solana?
-Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and built for the people
+Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the people
 * [Webpage](https://solana.com/)
 * [Documentation](https://docs.solana.com/)
 * [Twitter](https://twitter.com/solana)
