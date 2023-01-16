@@ -10,34 +10,20 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [Carbon Footprint](https://solana.com/environment)
 * [Events](https://solana.com/events)
 * [Community Blog](https://solana.com/community)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-
+* [Solana Foundation](https://solana.org/)
 
 ## Using Solana
 * [Solana Blockchain Status](https://status.solana.com/)
+
 ### Explorers
 * [Solscan](https://solscan.io/)
 * [Solana Beach](https://solanabeach.io/)
 * [SolanaFM](https://solana.fm/)
 
-
 ## Learning Solana
 * [Blockchain Basics](https://solana.com/learn/blockchain-basics)
 * [NFT's](https://solana.com/learn/nfts)
-
+* [Open Source Map](https://twitter.com/holaplex/status/1599837713670119425?s=20&t=wl10XfT8jgUHDueQr36qSQ)
 
 ## Build on Solana
 * [Grants](https://solana.org/grants)
@@ -46,21 +32,46 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [Hackathons](https://solana.com/hackathon)
 * [RPC](https://solana.com/rpc)
 * [Validators](https://solana.com/validators)
-## Projects
-### Wallets
+* [solana-go](https://github.com/gagliardetto/solana-go)
+* [solana-go-sdk](https://github.com/portto/solana-go-sdk)
+* [Anchor](https://github.com/coral-xyz/anchor)
+* [solana-py](https://github.com/michaelhly/solana-py)
+## Projects (Apps, Tokens, Dex, Wallets etc)
 
+### Apps
+* [Arweave (Data Storage)](https://www.arweave.org/)
+* [Dialect (Native Messaging)](https://www.dialect.to/)
+* [Audius (Web3 Music Streaming)](https://audius.co/)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+
+### Tokens 
+* [$USDC](https://www.circle.com/en/)
+### Dex
+
+### Wallets
+* [Phantom](https://phantom.app/)
+* [Solflare](https://solflare.com/)
+* [Backpack (Beta)](https://www.backpack.app/)
+* [Ledger](https://www.ledger.com/)
+## Community
+### DAO's
+* [Monke DAO](https://www.monkedao.io/)
+* [SuperTeam](https://superteam.fun/)
+* 
 
 ## Events
+* [Sandstorm Hackathon](https://www.sandstormhackathon.com/)
+* [Solana Breakpoint](https://solana.com/breakpoint)
 
-
-
-
-* [Open Source Map](https://twitter.com/holaplex/status/1599837713670119425?s=20&t=wl10XfT8jgUHDueQr36qSQ)
-
+## Reading Material
 * [Solana FUD Fighting](https://frictionlesscapital.substack.com/p/making-the-case-for-solana-fighting)
-
-
-
 
 ## Other Solana Knowledge Bases
 * [DecentralizedFinance.com Solana Ecosystem Map](https://dezentralizedfinance.com/solana-ecosystem/)
