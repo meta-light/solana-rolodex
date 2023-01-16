@@ -1,5 +1,4 @@
 # solana-rolodex
-
 ## What is Solana?
 Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the people
 * [Webpage](https://solana.com/)
@@ -31,40 +30,41 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [Solana Online IDE](https://beta.solpg.io/tutorials)
 * [Hackathons](https://solana.com/hackathon)
 * [RPC](https://solana.com/rpc)
+* [API](https://docs.blockchainapi.com/)
 * [Validators](https://solana.com/validators)
 * [solana-go](https://github.com/gagliardetto/solana-go)
 * [solana-go-sdk](https://github.com/portto/solana-go-sdk)
 * [Anchor](https://github.com/coral-xyz/anchor)
 * [solana-py](https://github.com/michaelhly/solana-py)
-## Projects (Apps, Tokens, Dex, Wallets etc)
 
+## Projects (Apps, Tokens, Dex, Wallets etc)
 ### Apps
 * [Arweave (Data Storage)](https://www.arweave.org/)
 * [Dialect (Native Messaging)](https://www.dialect.to/)
 * [Audius (Web3 Music Streaming)](https://audius.co/)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [Lido (Staking Provider)](https://lido.fi/solana)
+* [Marinade (Staking Provider)](https://marinade.finance/)
+* [Tulip (Yeild Aggregation)](https://tulip.garden/)
+* [Popsicle (Yeild Aggregation)](https://popsicle.finance/)
 
 ### Tokens 
 * [$USDC](https://www.circle.com/en/)
-### Dex
+
+### Dex and AMM's
+* [Radium](https://raydium.io/)
+* [Saber](https://app.saber.so/swap)
+* [Orca](https://www.orca.so/)
 
 ### Wallets
 * [Phantom](https://phantom.app/)
 * [Solflare](https://solflare.com/)
 * [Backpack (Beta)](https://www.backpack.app/)
 * [Ledger](https://www.ledger.com/)
+
 ## Community
 ### DAO's
 * [Monke DAO](https://www.monkedao.io/)
 * [SuperTeam](https://superteam.fun/)
-* 
 
 ## Events
 * [Sandstorm Hackathon](https://www.sandstormhackathon.com/)
