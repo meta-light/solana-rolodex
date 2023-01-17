@@ -23,19 +23,27 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [Blockchain Basics](https://solana.com/learn/blockchain-basics)
 * [NFT's](https://solana.com/learn/nfts)
 * [Open Source Map](https://twitter.com/holaplex/status/1599837713670119425?s=20&t=wl10XfT8jgUHDueQr36qSQ)
+* [Figment](https://learn.figment.io/)
+* [Hello Moon](https://www.hellomoon.io/solana)
 
 ## Build on Solana
 * [Grants](https://solana.org/grants)
+* [Solanium Fundraising](https://www.solanium.io/)
+* [Solana Program Library](https://spl.solana.com/)
 * [Devoloper Resources](https://solana.com/developers)
 * [Solana Online IDE](https://beta.solpg.io/tutorials)
 * [Hackathons](https://solana.com/hackathon)
 * [RPC](https://solana.com/rpc)
+* [Dexlab](https://solana.com/ecosystem/dexlab)
 * [API](https://docs.blockchainapi.com/)
 * [Validators](https://solana.com/validators)
 * [solana-go](https://github.com/gagliardetto/solana-go)
 * [solana-go-sdk](https://github.com/portto/solana-go-sdk)
 * [Anchor](https://github.com/coral-xyz/anchor)
 * [solana-py](https://github.com/michaelhly/solana-py)
+* [Tokio](https://tokio.rs/)
+* [Neon EVM](https://neon-labs.org/)
+* [Sealevel VM](https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192)
 
 ## Projects (Apps, Tokens, Dex, Wallets etc)
 ### Apps
@@ -46,6 +54,7 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [Marinade (Staking Provider)](https://marinade.finance/)
 * [Tulip (Yeild Aggregation)](https://tulip.garden/)
 * [Popsicle (Yeild Aggregation)](https://popsicle.finance/)
+* [StepN (Move-to-Earn)](https://solana.com/ecosystem/stepn)
 
 ### Tokens 
 * [$USDC](https://www.circle.com/en/)
@@ -55,12 +64,22 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [Saber](https://app.saber.so/swap)
 * [Orca](https://www.orca.so/)
 * [Jupiter](https://jup.ag/)
+* [Drift](https://solana.com/ecosystem/drift)
+* [Mango](https://mango.markets/)
 
 ### Wallets
 * [Phantom](https://phantom.app/)
 * [Solflare](https://solflare.com/)
 * [Backpack (Beta)](https://www.backpack.app/)
 * [Ledger](https://www.ledger.com/)
+
+### NFT's
+* [Magic Eden](https://magiceden.io/)
+* [Solanart](https://solanart.io/)
+* [OpenSea](https://opensea.io/solana-collections)
+* [SolSea](https://solsea.io/)
+* [Exchange.Art](https://exchange.art/)
+* [Digital Edge](digitaleyes.market)
 
 ### TIPIN Protocols
 * [Boring Protocol](https://boringprotocol.io/)
