@@ -54,6 +54,7 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [Radium](https://raydium.io/)
 * [Saber](https://app.saber.so/swap)
 * [Orca](https://www.orca.so/)
+* [Jupiter](https://jup.ag/)
 
 ### Wallets
 * [Phantom](https://phantom.app/)
