@@ -62,6 +62,12 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [Backpack (Beta)](https://www.backpack.app/)
 * [Ledger](https://www.ledger.com/)
 
+### TIPIN Protocols
+* [Boring Protocol](https://boringprotocol.io/)
+* [Hivemapper](hivemapper.com/)
+* [Map Metrics](mapmetrics.org/)
+* [Helium (Coming Soon)](helium.com)
+
 ## Community
 ### DAO's
 * [Monke DAO](https://www.monkedao.io/)
