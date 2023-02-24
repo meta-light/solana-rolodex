@@ -25,6 +25,7 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [Open Source Map](https://twitter.com/holaplex/status/1599837713670119425?s=20&t=wl10XfT8jgUHDueQr36qSQ)
 * [Figment](https://learn.figment.io/)
 * [Hello Moon](https://www.hellomoon.io/solana)
+* [Soldevapp](https://soldev.app/course)
 
 ## Build on Solana
 * [Grants](https://solana.org/grants)
