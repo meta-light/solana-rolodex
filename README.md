@@ -48,6 +48,7 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [Sealevel VM](https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192)
 
 ## Projects (Apps, Tokens, Dex, Wallets etc)
+* [Project Aggregator](https://www.solarplex.xyz/)
 ### Apps
 * [Arweave (Data Storage)](https://www.arweave.org/)
 * [Dialect (Native Messaging)](https://www.dialect.to/)
