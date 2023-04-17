@@ -20,6 +20,7 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [SolanaFM](https://solana.fm/)
 
 ## Learning Solana
+* [Bull Case](https://medium.com/solana-labs/7-innovations-that-make-solana-the-first-web-scale-blockchain-ddc50b1defda)
 * [Blockchain Basics](https://solana.com/learn/blockchain-basics)
 * [NFT's](https://solana.com/learn/nfts)
 * [Open Source Map](https://twitter.com/holaplex/status/1599837713670119425?s=20&t=wl10XfT8jgUHDueQr36qSQ)
