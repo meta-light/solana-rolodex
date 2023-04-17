@@ -59,6 +59,7 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [Famous Foxes Snapshot Tool](https://famousfoxes.com/snapshot)
 * [Hashlips Art Generator](https://github.com/HashLips/hashlips_art_engine)
 * [Metaboss Metaplex Toolkit](https://github.com/samuelvanderwaal/metaboss)
+* [Compressed NFT Github](https://github.com/solana-developers/compressed-nfts)
 
 ## Projects (Apps, Tokens, Dex, Wallets etc)
 * [Project Aggregator](https://www.solarplex.xyz/)
