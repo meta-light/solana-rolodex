@@ -48,6 +48,18 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [Neon EVM](https://neon-labs.org/)
 * [Sealevel VM](https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192)
 
+## NFT Launchpad
+* [Metaplex]
+* [Mint 1M Compressed NFT's](https://github.com/solana-developers/one-milion-nfts)
+* [Ilovespectra's Frontend Example](https://github.com/ilovespectra/hacks-nfts/blob/main/README.md)
+* [My SugarCLI Guide](https://github.com/meta-lite/hello-sugar)
+* [Minting Compressed NFT's](https://www.youtube.com/watch?v=A_U1Nd41vPc)
+* [Transferring Compressed NFT's](https://www.youtube.com/watch?v=FOO5eT7K_e4)
+* [MagicEden Hashlist Tool](https://magiceden.io/mintlist-tool)
+* [Famous Foxes Snapshot Tool](https://famousfoxes.com/snapshot)
+* [Hashlips Art Generator](https://github.com/HashLips/hashlips_art_engine)
+* [Metaboss Metaplex Toolkit](https://github.com/samuelvanderwaal/metaboss)
+
 ## Projects (Apps, Tokens, Dex, Wallets etc)
 * [Project Aggregator](https://www.solarplex.xyz/)
 ### Apps
