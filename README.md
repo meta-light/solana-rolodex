@@ -44,6 +44,7 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [solana-go-sdk](https://github.com/portto/solana-go-sdk)
 * [Anchor](https://github.com/coral-xyz/anchor)
 * [solana-py](https://github.com/michaelhly/solana-py)
+* [Nautilus](https://github.com/nautilus-project/nautilus)
 * [Tokio](https://tokio.rs/)
 * [Neon EVM](https://neon-labs.org/)
 * [Sealevel VM](https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192)
