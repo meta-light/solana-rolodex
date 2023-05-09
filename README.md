@@ -65,6 +65,8 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 ## SPL Launchpad
 * [Generate via TS](https://www.quicknode.com/guides/solana-development/spl-tokens/how-to-create-a-fungible-spl-token-with-the-new-metaplex-token-standard/)
 * [Generate via CLI and configure](https://learn.figment.io/tutorials/sol-mint-token)
+* [Dexlab](https://www.dexlab.space/mintinglab/spl-token)
+* [GckoTerminal](https://www.geckoterminal.com/solana/pools)
 
 ## Projects (Apps, Tokens, Dex, Wallets etc)
 * [Project Aggregator](https://www.solarplex.xyz/)
