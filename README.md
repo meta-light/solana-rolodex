@@ -51,6 +51,9 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 
 ## Jobs
 * [Hutt Capital](https://www.huttcapital.com/jobs)
+* [Solana](https://jobs.solana.com/jobs)
+* [web3.career](https://web3.career/solana-jobs)
+* [Compensation](https://web3.career/web3-non-tech-salaries)
 
 ## NFT Launchpad
 * [Metaplex](https://github.com/metaplex-foundation/metaplex)
