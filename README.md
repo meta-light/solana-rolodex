@@ -31,6 +31,7 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 ## Build on Solana
 * [Grants](https://solana.org/grants)
 * [VC's and Funding](https://build.superteam.fun/vcs-and-funds)
+* [Soltrek Visual Tool](https://soltrek.spaceoperator.com/)
 * [Solanium Fundraising](https://www.solanium.io/)
 * [Solana Program Library](https://spl.solana.com/)
 * [Devoloper Resources](https://solana.com/developers)
