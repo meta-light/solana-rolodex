@@ -60,6 +60,7 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [Metaplex](https://github.com/metaplex-foundation/metaplex)
 * [Mint 1M Compressed NFT's](https://github.com/solana-developers/one-milion-nfts)
 * [Ilovespectra's Frontend Example](https://github.com/ilovespectra/hacks-nfts/blob/main/README.md)
+* [Compressed NFT Calc](https://compressed.app/)
 * [My SugarCLI Guide](https://github.com/meta-lite/hello-sugar)
 * [Minting Compressed NFT's](https://www.youtube.com/watch?v=A_U1Nd41vPc)
 * [Transferring Compressed NFT's](https://www.youtube.com/watch?v=FOO5eT7K_e4)
