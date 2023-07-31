@@ -79,6 +79,7 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [Dexlab](https://www.dexlab.space/mintinglab/spl-token)
 * [GeckoTerminal](https://www.geckoterminal.com/solana/pools)
 * [Helius SPL Guide](https://www.helius.xyz/blog/working-with-solana-tokens)
+* [Update Metadata](https://sol-tools.tonyboyle.io/)
 
 ## Projects (Apps, Tokens, Dex, Wallets etc)
 * [Project Aggregator](https://www.solarplex.xyz/)
