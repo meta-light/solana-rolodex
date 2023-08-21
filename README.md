@@ -50,6 +50,7 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [Neon EVM](https://neon-labs.org/)
 * [Sealevel VM](https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192)
 * [Topledger](https://topledger.xyz/)
+* [Privy](https://demo.privy.io/)
 
 ## Jobs
 * [Hutt Capital](https://www.huttcapital.com/jobs)
