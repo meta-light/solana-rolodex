@@ -106,6 +106,7 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [Jupiter](https://jup.ag/)
 * [Drift](https://solana.com/ecosystem/drift)
 * [Mango](https://mango.markets/)
+* [Jupiter Unity SDK](https://solana.unity-sdk.gg/docs/jupiter)
 
 ### Wallets
 * [Phantom](https://phantom.app/)
