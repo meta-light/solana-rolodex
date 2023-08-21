@@ -27,6 +27,7 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [Figment](https://learn.figment.io/)
 * [Hello Moon](https://www.hellomoon.io/solana)
 * [Soldevapp](https://soldev.app/course)
+* [Reading List](https://www.mertimus.com/p/the-solana-reading-list)
 
 ## Build on Solana
 * [Grants](https://solana.org/grants)
