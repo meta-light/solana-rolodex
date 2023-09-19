@@ -85,6 +85,7 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [GeckoTerminal](https://www.geckoterminal.com/solana/pools)
 * [Helius SPL Guide](https://www.helius.xyz/blog/working-with-solana-tokens)
 * [Update Metadata](https://sol-tools.tonyboyle.io/)
+* [Rug Checker](https://rugcheck.xyz/)
 
 ## Projects (Apps, Tokens, Dex, Wallets etc)
 * [Project Aggregator](https://www.solarplex.xyz/)
