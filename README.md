@@ -54,6 +54,8 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [Privy](https://demo.privy.io/)
 * [Blast Tools](https://tools.blastctrl.com/)
 * [Why Visa Uses Solana](https://usa.visa.com/solutions/crypto/deep-dive-on-solana.html)
+* [React Connect Button](https://solana-wallet-adapter-mantine-ui.pages.dev/)
+* [Magic](https://magic.link/docs/dedicated/blockchains/solana)
 
 ## Jobs
 * [Hutt Capital](https://www.huttcapital.com/jobs)
