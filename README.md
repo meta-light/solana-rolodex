@@ -57,6 +57,7 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [Why Visa Uses Solana](https://usa.visa.com/solutions/crypto/deep-dive-on-solana.html)
 * [React Connect Button](https://solana-wallet-adapter-mantine-ui.pages.dev/)
 * [Magic](https://magic.link/docs/dedicated/blockchains/solana)
+* [React Example](https://siws.web3auth.io/implementfrontend-react)
 
 ## Jobs
 * [Hutt Capital](https://www.huttcapital.com/jobs)
