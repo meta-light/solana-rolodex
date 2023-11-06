@@ -132,8 +132,8 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [Exchange.Art](https://exchange.art/)
 * [Digital Edge](digitaleyes.market)
 
-### TIPIN Protocols
-* [Boring Protocol](https://boringprotocol.io/)
+### DePIN Protocols
+* [Boring Protocol --rugged](https://boringprotocol.io/)
 * [Hivemapper](hivemapper.com/)
 * [Map Metrics](mapmetrics.org/)
 * [Helium (Coming Soon)](helium.com)
@@ -156,3 +156,4 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [Solana Ecosystem](https://solana.com/ecosystem)
 * [Awesome Solana NFT's](https://github.com/ilmoi/awesome-solana-nfts)
 * [SOL Map](https://solmap.app/)
+* [Running Firedancer](https://medium.com/edgevana/running-firedancer-solana-testnet-on-edgevana-b84bcd951373)
