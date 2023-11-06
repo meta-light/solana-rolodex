@@ -18,6 +18,8 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [Solscan](https://solscan.io/)
 * [Solana Beach](https://solanabeach.io/)
 * [SolanaFM](https://solana.fm/)
+* [Xray](https://xray.helius.xyz/)
+* [Solo](https://soloexplorer.vercel.app/)
 
 ## Learning Solana
 * [Bull Case](https://medium.com/solana-labs/7-innovations-that-make-solana-the-first-web-scale-blockchain-ddc50b1defda)
