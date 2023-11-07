@@ -90,6 +90,12 @@ Solana is a fast, sleek and secure layer-1 blockchain, built with Rust as a publ
 * [Update Metadata](https://sol-tools.tonyboyle.io/)
 * [Rug Checker](https://rugcheck.xyz/)
 
+## RPC Providers
+* [Helius](https://www.helius.dev/)
+* [Quicknode](https://www.quicknode.com/)
+* [Alchemy](https://www.alchemy.com/solana)
+* [Ankr](https://www.ankr.com/rpc/solana/)
+
 ## Apps
 * [Arweave (Data Storage)](https://www.arweave.org/)
 * [Dialect (Native Messaging)](https://www.dialect.to/)
