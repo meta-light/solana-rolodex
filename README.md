@@ -1,28 +1,24 @@
 # solana-rolodex
 ## What is Solana?
-Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the people
+Solana is a fast, sleek and secure layer-1 blockchain, built with Rust as a public good
 * [Webpage](https://solana.com/)
 * [Documentation](https://docs.solana.com/)
 * [Twitter](https://twitter.com/solana)
 * [Github](https://github.com/solana-labs)
 * [News](https://solana.com/news)
 * [Carbon Footprint](https://solana.com/environment)
-* [Events](https://solana.com/events)
 * [Community Blog](https://solana.com/community)
 * [Solana Foundation](https://solana.org/)
 
-## Using Solana
-* [Solana Blockchain Status](https://status.solana.com/)
-
-### Explorers
+## Explorers
 * [Solscan](https://solscan.io/)
 * [Solana Beach](https://solanabeach.io/)
 * [SolanaFM](https://solana.fm/)
 * [Xray](https://xray.helius.xyz/)
 * [Solo](https://soloexplorer.vercel.app/)
+* [Birdeye](https://birdeye.so/?chain=solana)
 
 ## Learning Solana
-* [Bull Case](https://medium.com/solana-labs/7-innovations-that-make-solana-the-first-web-scale-blockchain-ddc50b1defda)
 * [Blockchain Basics](https://solana.com/learn/blockchain-basics)
 * [NFT's](https://solana.com/learn/nfts)
 * [Open Source Map](https://twitter.com/holaplex/status/1599837713670119425?s=20&t=wl10XfT8jgUHDueQr36qSQ)
@@ -33,6 +29,7 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [The Ecosystem](https://ournetwork.substack.com/p/ournetwork-issue-187)
 
 ## Build on Solana
+* [Solana Blockchain Status](https://status.solana.com/)
 * [Grants](https://solana.org/grants)
 * [VC's and Funding](https://build.superteam.fun/vcs-and-funds)
 * [Soltrek Visual Tool](https://soltrek.spaceoperator.com/)
@@ -40,7 +37,6 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [Solana Program Library](https://spl.solana.com/)
 * [Devoloper Resources](https://solana.com/developers)
 * [Solana Online IDE](https://beta.solpg.io/tutorials)
-* [Hackathons](https://solana.com/hackathon)
 * [RPC](https://solana.com/rpc)
 * [Dexlab](https://solana.com/ecosystem/dexlab)
 * [API](https://docs.blockchainapi.com/)
@@ -51,9 +47,9 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [solana-py](https://github.com/michaelhly/solana-py)
 * [Nautilus](https://github.com/nautilus-project/nautilus)
 * [Tokio](https://tokio.rs/)
+* [Jupiter Unity SDK](https://solana.unity-sdk.gg/docs/jupiter)
 * [Neon EVM](https://neon-labs.org/)
 * [Sealevel VM](https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192)
-* [Topledger](https://topledger.xyz/)
 * [Privy](https://demo.privy.io/)
 * [Blast Tools](https://tools.blastctrl.com/)
 * [Why Visa Uses Solana](https://usa.visa.com/solutions/crypto/deep-dive-on-solana.html)
@@ -94,9 +90,7 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [Update Metadata](https://sol-tools.tonyboyle.io/)
 * [Rug Checker](https://rugcheck.xyz/)
 
-## Projects (Apps, Tokens, Dex, Wallets etc)
-* [Project Aggregator](https://www.solarplex.xyz/)
-### Apps
+## Apps
 * [Arweave (Data Storage)](https://www.arweave.org/)
 * [Dialect (Native Messaging)](https://www.dialect.to/)
 * [Audius (Web3 Music Streaming)](https://audius.co/)
@@ -106,49 +100,74 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [Popsicle (Yeild Aggregation)](https://popsicle.finance/)
 * [StepN (Move-to-Earn)](https://solana.com/ecosystem/stepn)
 
-### Tokens 
-* [$USDC](https://www.circle.com/en/)
-
-### Dex and AMM's
+## Dex and AMM's
 * [Radium](https://raydium.io/)
 * [Saber](https://app.saber.so/swap)
 * [Orca](https://www.orca.so/)
 * [Jupiter](https://jup.ag/)
 * [Drift](https://solana.com/ecosystem/drift)
 * [Mango](https://mango.markets/)
-* [Jupiter Unity SDK](https://solana.unity-sdk.gg/docs/jupiter)
 
-### Wallets
+## Wallets
 * [Phantom](https://phantom.app/)
 * [Solflare](https://solflare.com/)
-* [Backpack (Beta)](https://www.backpack.app/)
+* [Backpack](https://www.backpack.app/)
 * [Ledger](https://www.ledger.com/)
+* [Fuse](https://fuse.squads.so/)
 
-### NFT's
+## Analytics
+* [TopLedger](https://topledger.xyz/)
+* [Dune](https://dune.com/home)
+* [Flipside](https://flipsidecrypto.xyz/)
+
+## NFT's
 * [Magic Eden](https://magiceden.io/)
 * [Solanart](https://solanart.io/)
 * [OpenSea](https://opensea.io/solana-collections)
 * [SolSea](https://solsea.io/)
 * [Exchange.Art](https://exchange.art/)
 * [Digital Edge](digitaleyes.market)
+* [Tensor](https://tensor.trade/)
 
-### DePIN Protocols
-* [Boring Protocol --rugged](https://boringprotocol.io/)
+## DePIN Protocols
 * [Hivemapper](hivemapper.com/)
 * [Map Metrics](mapmetrics.org/)
-* [Helium (Coming Soon)](helium.com)
+* [Helium](helium.com)
+* [Onocoy](https://www.onocoy.com/)
+* [WiHi](https://www.wihi.link/)
+* [SRCFUL](https://srcful.io/)
+* [DAIN](https://dain.org/)
+* [Render](https://renderfoundation.com/)
+* [IO.Net](https://io.net/)
 
-## Community
-### DAO's
+## Liquid Staking
+- [Jito](https://www.jito.network/staking/)
+- [Marinade](https://marinade.finance/)
+- [SolBlaze](https://solblaze.org/)
+- [Lido](https://solana.lido.fi/)
+
+## DAO's
 * [Monke DAO](https://www.monkedao.io/)
 * [SuperTeam](https://superteam.fun/)
+* [LamportDAO](https://twitter.com/lamportdao?lang=en)
+* [Deans List](https://deanslist.services/)
+* [McDegens DAO](https://mcdegen.xyz/)
 
 ## Events
-* [Sandstorm Hackathon](https://www.sandstormhackathon.com/)
+* [Foundation Events](https://solana.com/events)
+* [Hackathons](https://solana.com/hackathon)
 * [Solana Breakpoint](https://solana.com/breakpoint)
+
+## Social Finance
+* [Solarplex](https://www.solarplex.xyz/)
+* [Friendzy](https://friendzy.gg/)
+* [Hub3](https://hub3.ee/)
+* [KIVO](https://twitter.com/kivofinance)
 
 ## Reading Material
 * [Solana FUD Fighting](https://frictionlesscapital.substack.com/p/making-the-case-for-solana-fighting)
+* [Bull Case](https://medium.com/solana-labs/7-innovations-that-make-solana-the-first-web-scale-blockchain-ddc50b1defda)
+* [Running Firedancer](https://medium.com/edgevana/running-firedancer-solana-testnet-on-edgevana-b84bcd951373)
 
 ## Other Solana Knowledge Bases
 * [DecentralizedFinance.com Solana Ecosystem Map](https://dezentralizedfinance.com/solana-ecosystem/)
@@ -156,4 +175,3 @@ Solana is a fast, sleek and secure layer-1 blockchain, built in Rust and for the
 * [Solana Ecosystem](https://solana.com/ecosystem)
 * [Awesome Solana NFT's](https://github.com/ilmoi/awesome-solana-nfts)
 * [SOL Map](https://solmap.app/)
-* [Running Firedancer](https://medium.com/edgevana/running-firedancer-solana-testnet-on-edgevana-b84bcd951373)
