@@ -156,6 +156,7 @@ Solana is a fast, sleek and secure layer-1 blockchain, built with Rust as a publ
 - [Lido](https://solana.lido.fi/)
 
 ## DAO's
+* [SPL Governance](https://www.governance.so/)
 * [Monke DAO](https://www.monkedao.io/)
 * [SuperTeam](https://superteam.fun/)
 * [LamportDAO](https://twitter.com/lamportdao?lang=en)
