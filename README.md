@@ -81,6 +81,7 @@ Solana is a fast, sleek and secure layer-1 blockchain, built with Rust as a publ
 * [On-Chain cNFT](https://github.com/nelsontky/onchain-cnft)
 * [IPFS Uploader](https://nft.storage/files/)
 * [cNFT Minting](https://kitchen.helius.dev/create)
+* [Inscriptions Launchpad](https://www.solscribe.io/)
 
 ## SPL Launchpad
 * [Generate via TS](https://www.quicknode.com/guides/solana-development/spl-tokens/how-to-create-a-fungible-spl-token-with-the-new-metaplex-token-standard/)
