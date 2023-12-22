@@ -57,6 +57,7 @@ Solana is a fast, sleek and secure layer-1 blockchain, built with Rust as a publ
 * [Magic](https://magic.link/docs/dedicated/blockchains/solana)
 * [React Example](https://siws.web3auth.io/implementfrontend-react)
 * [Space Operator](https://spaceoperator.com/marketplace)
+* [Particle Network](https://docs.particle.network/overview/available-networks/solana)
 
 ## Jobs
 * [Hutt Capital](https://www.huttcapital.com/jobs)
