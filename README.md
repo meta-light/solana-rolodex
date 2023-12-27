@@ -151,6 +151,7 @@ Solana is a fast, sleek and secure layer-1 blockchain, built with Rust as a publ
 * [Teleport](teleport.xyz/)
 * [Shadow Drive](shadow.cloud/)
 * [Media Network](media.network/)
+* [Nosana](https://nosana.io/)
 
 ## Liquid Staking
 - [Jito](https://www.jito.network/staking/)
