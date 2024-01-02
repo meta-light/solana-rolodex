@@ -95,6 +95,7 @@ Solana is a fast, sleek and secure layer-1 blockchain, built with Rust as a publ
 * [Helius SPL Guide](https://www.helius.xyz/blog/working-with-solana-tokens)
 * [Update Metadata](https://sol-tools.tonyboyle.io/)
 * [Rug Checker](https://rugcheck.xyz/)
+* [Revoke](https://revokin.com/)
 
 ## RPC Providers
 * [Helius](https://www.helius.dev/)
