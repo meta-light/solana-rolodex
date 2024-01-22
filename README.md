@@ -61,6 +61,7 @@ Solana is a fast, sleek and secure layer-1 blockchain, built with Rust as a publ
 * [Anchor Examples](https://github.com/tgaye/AnchorExampleContracts)
 * [Create Solana dApp Template](https://www.npmjs.com/package/create-solana-dapp)
 * [Migrate from ETH](https://www.helius.dev/blog/how-to-migrate-from-ethereum-to-solana)
+* [DeWiCats Connect Button](https://www.npmjs.com/package/@dewicats/connect-button)
 
 ## Jobs
 * [Hutt Capital](https://www.huttcapital.com/jobs)
