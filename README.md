@@ -62,6 +62,7 @@ Solana is a fast, sleek and secure layer-1 blockchain, built with Rust as a publ
 * [Create Solana dApp Template](https://www.npmjs.com/package/create-solana-dapp)
 * [Migrate from ETH](https://www.helius.dev/blog/how-to-migrate-from-ethereum-to-solana)
 * [DeWiCats Connect Button](https://www.npmjs.com/package/@dewicats/connect-button)
+* [Colosseum](https://www.colosseum.org/)
 
 ## Jobs
 * [Hutt Capital](https://www.huttcapital.com/jobs)
@@ -99,6 +100,7 @@ Solana is a fast, sleek and secure layer-1 blockchain, built with Rust as a publ
 * [Rug Checker](https://rugcheck.xyz/)
 * [Revoke](https://revokin.com/)
 * [SAGA Airdrop Tool](https://www.sagatools.io/)
+* [Step Finance](https://analytics.step.finance/defionsolana)
 
 ## RPC Providers
 * [Helius](https://www.helius.dev/)
