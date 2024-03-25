@@ -63,6 +63,7 @@ Solana is a fast, sleek and secure layer-1 blockchain, built with Rust as a publ
 * [Migrate from ETH](https://www.helius.dev/blog/how-to-migrate-from-ethereum-to-solana)
 * [DeWiCats Connect Button](https://www.npmjs.com/package/@dewicats/connect-button)
 * [Colosseum](https://www.colosseum.org/)
+* [Godot Game Engine](https://docs.godotengine.org/en/stable/#)
 
 ## Jobs
 * [Hutt Capital](https://www.huttcapital.com/jobs)
